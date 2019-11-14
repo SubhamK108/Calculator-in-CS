@@ -1,0 +1,11 @@
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/bin/Debug/netcoreapp3.0/Calculator
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/bin/Debug/netcoreapp3.0/Calculator.deps.json
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/bin/Debug/netcoreapp3.0/Calculator.runtimeconfig.json
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/bin/Debug/netcoreapp3.0/Calculator.runtimeconfig.dev.json
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/bin/Debug/netcoreapp3.0/Calculator.dll
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/bin/Debug/netcoreapp3.0/Calculator.pdb
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.csprojAssemblyReference.cache
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.AssemblyInfoInputs.cache
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.AssemblyInfo.cs
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.dll
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.pdb
