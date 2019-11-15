@@ -1,0 +1,8 @@
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/bin/Debug/netstandard2.0/Functions.deps.json
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/bin/Debug/netstandard2.0/Functions.dll
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/bin/Debug/netstandard2.0/Functions.pdb
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/obj/Debug/netstandard2.0/Functions.csprojAssemblyReference.cache
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/obj/Debug/netstandard2.0/Functions.AssemblyInfoInputs.cache
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/obj/Debug/netstandard2.0/Functions.AssemblyInfo.cs
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/obj/Debug/netstandard2.0/Functions.dll
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/obj/Debug/netstandard2.0/Functions.pdb

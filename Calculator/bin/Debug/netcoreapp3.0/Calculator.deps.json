@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.0": {
       "Calculator/1.0.0": {
+        "dependencies": {
+          "Functions": "1.0.0"
+        },
         "runtime": {
           "Calculator.dll": {}
+        }
+      },
+      "Functions/1.0.0": {
+        "runtime": {
+          "Functions.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Functions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

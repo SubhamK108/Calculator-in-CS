@@ -9,3 +9,6 @@
 /mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.AssemblyInfo.cs
 /mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.dll
 /mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.pdb
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/bin/Debug/netcoreapp3.0/Functions.dll
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/bin/Debug/netcoreapp3.0/Functions.pdb
+/mnt/d/Coding/Personal/C#/Calculator-in-CS/Calculator/obj/Debug/netcoreapp3.0/Calculator.csproj.CopyComplete

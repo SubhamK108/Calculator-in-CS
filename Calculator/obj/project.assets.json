@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "Functions/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Functions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Functions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Functions/1.0.0": {
+      "type": "project",
+      "path": "../Functions/Functions.csproj",
+      "msbuildProject": "../Functions/Functions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "Functions >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/subham_k/.nuget/packages/": {}
@@ -30,7 +49,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/Functions.csproj": {
+              "projectPath": "/mnt/d/Coding/Personal/C#/Calculator-in-CS/Functions/Functions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
