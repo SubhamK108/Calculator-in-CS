@@ -1,2 +1,2 @@
 # Calculator-in-CS
-A simple calculator written in C#
+A simple calculator app written in C#
